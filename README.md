@@ -64,6 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 We would like to thank the contributors of the DAVE-2 system and researchers behind MTR and MGTR methodologies, whose work greatly influenced this project.
-```
 
-This `README.md` gives a clear overview of your project, including installation steps, running instructions, and project structure. You can adjust the specific sections to match the nuances of your project as needed!
