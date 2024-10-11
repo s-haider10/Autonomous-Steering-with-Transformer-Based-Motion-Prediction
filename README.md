@@ -1,6 +1,6 @@
 # Autonomous Steering with Transformer-Based Motion Prediction
 
-This repository contains the code and resources for our research project submitted to Courant Computer Vision Course, titled **Autonomous Steering with Transformer-Based Motion Prediction**. The project explores the use of Transformer architectures to predict steering angles in autonomous vehicles, leveraging the DAVE-2 dataset and methodologies inspired by the Multi-Granular Transformer (MGTR) and Motion Transformer (MTR).
+This repository contains the code and resources for our research project submitted to Courant Computer Vision Course, **Autonomous Steering with Transformer-Based Motion Prediction**. The project explores the use of Transformer architectures to predict steering angles in autonomous vehicles, leveraging the DAVE-2 dataset and methodologies inspired by the Multi-Granular Transformer (MGTR) and Motion Transformer (MTR).
 
 ## Project Overview
 
