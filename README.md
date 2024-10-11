@@ -59,8 +59,7 @@ During the training, we evaluate the model based on the loss function and accura
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License 
 ## Acknowledgements
 
 We would like to thank the contributors of the DAVE-2 system and researchers behind MTR and MGTR methodologies, whose work greatly influenced this project.
